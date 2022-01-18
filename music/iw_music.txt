@@ -1,0 +1,59 @@
+music_station = "iw_test_station"
+
+music = {
+	song = "maintheme"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "test_song"
+	chance = {
+		modifier = {
+			factor = 2
+			NOT = {
+				TAG = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+		}
+	}
+}
+
+music = {
+	song = "only_forever"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				TAG = USA
+			}
+		}
+		modifier = {
+			factor = 2
+			TAG = USA
+		}
+	}
+}
+
+
+music = {
+	song = "amor"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				TAG = USA
+			}
+		}
+		modifier = {
+			factor = 2
+			TAG = USA
+		}
+	}
+}

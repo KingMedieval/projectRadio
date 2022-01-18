@@ -1,0 +1,17 @@
+music = {
+	name = "test_song"
+	file = "test_song.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "only_forever"
+	file = "only_forever.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "amor"
+	file = "amor.ogg"
+	volume = 0.65
+}
