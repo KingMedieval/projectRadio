@@ -41,9 +41,72 @@ music = {
 	}
 }
 
-
 music = {
 	song = "amor"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				TAG = USA
+			}
+		}
+		modifier = {
+			factor = 2
+			TAG = USA
+		}
+	}
+}
+
+music = {
+	song = "ac_cent_tchu_ate_the_positive"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				TAG = USA
+			}
+		}
+		modifier = {
+			factor = 2
+			TAG = USA
+		}
+	}
+}
+
+music = {
+	song = "be_careful_its_my_heart"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				TAG = USA
+			}
+		}
+		modifier = {
+			factor = 2
+			TAG = USA
+		}
+	}
+}
+
+music = {
+	song = "besame_mucho"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				TAG = USA
+			}
+		}
+		modifier = {
+			factor = 2
+			TAG = USA
+		}
+	}
+}
+
+music = {
+	song = "boogie_woogie_bugle_boy"
 	chance = {
 		modifier = {
 			factor = 0

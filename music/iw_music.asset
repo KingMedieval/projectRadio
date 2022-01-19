@@ -15,3 +15,27 @@ music = {
 	file = "amor.ogg"
 	volume = 0.65
 }
+
+music = {
+	name = "ac_cent_tchu_ate_the_positive"
+	file = "ac_cent_tchu_ate_the_positive.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "be_careful_its_my_heart"
+	file = "be_careful_its_my_heart.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "besame_mucho"
+	file = "besame_mucho.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "boogie_woogie_bugle_boy"
+	file = "boogie_woogie_bugle_boy.ogg"
+	volume = 0.65
+}
